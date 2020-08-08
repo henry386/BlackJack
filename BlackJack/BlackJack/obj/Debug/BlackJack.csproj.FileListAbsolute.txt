@@ -1,0 +1,11 @@
+C:\Users\beldo\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\beldo\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\beldo\source\repos\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\beldo\source\repos\BlackJack\BlackJack\obj\Debug\BlackJack.Form2.resources

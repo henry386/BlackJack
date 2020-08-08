@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beldo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beldo\\.nuget\\packages"
+    ]
+  }
+}
